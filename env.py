@@ -1,2 +1,2 @@
-USER= 'root'
-PASSWORD= 'root'
+USER= 'Ваше имя пользователя'
+PASSWORD= 'Ваш пароль'
